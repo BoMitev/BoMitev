@@ -18,8 +18,8 @@
     <ul>
     <div>
       <li><span>:computer: Coding&emsp;&emsp;:wrench: Engineering&emsp;&emsp;:airplane: Travelling</span></li>
-      <li><span>:bicyclist: Cycling&emsp;&emsp;&ensp;:video_game: Gaming&emsp;&emsp;&emsp;&emsp;:swimmer: Swiming</span></li>
-      <li><span>:sailboat: Sailing&emsp;&emsp;&ensp;&nbsp;:bulb: Tehnologies&emsp;&emsp;&nbsp;:musical_note: Music</span></li>
+      <li><span>:bicyclist: Cycling&emsp;&emsp;:video_game: Gaming&emsp;&emsp;&emsp;&emsp;:swimmer: Swiming</span></li>
+      <li><span>:sailboat: Sailing&emsp;&emsp;&nbsp;:bulb: Tehnologies&emsp;&emsp;&nbsp;:musical_note: Music</span></li>
     </div>
     </ul>
   </li>
