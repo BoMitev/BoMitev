@@ -17,7 +17,7 @@
   <li>Interests in:
     <ul>
     <div>
-      <li><span>:computer: Codding&emsp;&emsp;:wrench: Engineering&emsp;&emsp;:airplane: Travelling</span></li>
+      <li><span>:computer: Coding&emsp;&emsp;:wrench: Engineering&emsp;&emsp;:airplane: Travelling</span></li>
       <li><span>:bicyclist: Cycling&emsp;&emsp;&ensp;:video_game: Gaming&emsp;&emsp;&emsp;&emsp;:swimmer: Swiming</span></li>
       <li><span>:sailboat: Sailing&emsp;&emsp;&ensp;&nbsp;:bulb: Tehnologies&emsp;&emsp;&nbsp;:musical_note: Music</span></li>
     </div>
