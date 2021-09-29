@@ -8,7 +8,7 @@
 </div>
 <ul>
   <li>Ex-marine Mechanical Engineer at <b><i>"Norwegian Cruise Line"</i></b> <a href="https://www.ncl.com/"><img src="https://i.ibb.co/SQW79RG/Norwegian-Cruise-Line-Logo-white-text-700x287.png" height="25"/></a></li>
-  <li>Student at SoftUni <a href="softuni.bg"><img src="https://i.ibb.co/YbD0x7v/favicon-2.png" height="25" style="vertical-align: bottom"/></a>
+  <li>Student at SoftUni <a href="https://softuni.bg"><img src="https://i.ibb.co/YbD0x7v/favicon-2.png" height="25"/></a>
     <ul>
       <li>Font-End Development
       </li>
