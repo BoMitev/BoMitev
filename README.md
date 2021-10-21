@@ -31,7 +31,7 @@
   
 <p>
   <a href="#">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomitev&layout=compact&theme=dark" />
-  <img align="right" height="140" width="50%" src="https://github-readme-stats.vercel.app/api?username=bomitev&count_private=true&theme=dark&hide=prs&show_icons=true" />
+  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomitev&layout=compact&theme=dark" />
+  <img align="right" width="46.5%" src="https://github-readme-stats.vercel.app/api?username=bomitev&count_private=true&theme=dark&hide=prs&show_icons=true" />
   </a>
 </p>
